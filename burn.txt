@@ -1,0 +1,1 @@
+avrdude -c usbasp -p ATMega8 -e -U flash:w:usbavr.hex
